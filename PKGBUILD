@@ -2,7 +2,7 @@
 
 pkgname=mkclean
 pkgver=0.8.7
-pkgrel=1
+pkgrel=2
 pkgdesc="Clean up and optimize MKV files"
 arch=('i686' 'x86_64')
 url="http://www.matroska.org/downloads/$pkgname.html"
